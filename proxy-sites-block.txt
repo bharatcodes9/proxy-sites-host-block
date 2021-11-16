@@ -131,6 +131,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.xroxy.com
 0.0.0.0 www.filterbypass.me
 0.0.0.0 www.dontfilter.us
+0.0.0.0 server.kproxy.com
 0.0.0.0 server1.kproxy.com
 0.0.0.0 server2.kproxy.com
 0.0.0.0 server3.kproxy.com
