@@ -63,6 +63,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 megaproxy.com.ar
 0.0.0.0 vpnbook.com
 0.0.0.0 hidester.com
+0.0.0.0 play.google.com
 0.0.0.0 xroxy.com
 0.0.0.0 filterbypass.me
 0.0.0.0 dontfilter.us
@@ -86,6 +87,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 thekat.info
 0.0.0.0 kickass.cm
 0.0.0.0 kat.li
+0.0.0.0 katcr.to
 0.0.0.0 katcr.to
 0.0.0.0 kickasstorrents.to
 0.0.0.0 kat.am
